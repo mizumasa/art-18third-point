@@ -1,0 +1,19 @@
+<IP_PC>192.168.10.2</IP_PC>
+<USER_PC>masarumizuochi</USER_PC>
+<PASS_PC>moca1201</PASS_PC>
+<DATA_SAVE_PATH>/Users/masarumizuochi/MocaData/</DATA_SAVE_PATH>
+<Mocas>
+    <IP_SEGMENT>192.168.10.</IP_SEGMENT>
+    <Moca>
+        <X>400</X><Y>400</Y><Z>0</Z><IP4>3</IP4>
+    </Moca>
+    <Moca>
+        <X>400</X><Y>-400</Y><Z>0</Z><IP4>4</IP4>
+    </Moca>
+    <Moca>
+        <X>-400</X><Y>400</Y><Z>0</Z><IP4>7</IP4>
+    </Moca>
+    <Moca>
+        <X>-400</X><Y>-400</Y><Z>0</Z><IP4>8</IP4>
+    </Moca>
+</Mocas>
